@@ -1,6 +1,6 @@
 # PowerMTML-ST2 について
 
-Sublime Text 2 PowerMTML Package は Sublime Text 2 で PowerCMS 及び Movable Type のテンプレートタグ（MTML）の入力補完を提供するパッケージです。  
+PowerMTML-ST2 は Sublime Text 2 で PowerCMS 及び Movable Type のテンプレートタグ（MTML）の入力補完を提供するパッケージです。  
 Movable Typeの標準タグを補完出来るようにするには「[MTML-ST2](https://github.com/bit-part/MTML-ST2)」のインストールが必要です。
 
 ## インストール

@@ -1,7 +1,7 @@
 # About PowerMTML-ST2
 
-Sublime Text 2 PowerMTML Package is autocompletions of PowerCMS for Sublime Text 2.  
-You can use suggestions of "Movable Type template tags" after installing [MTML-ST2](https://github.com/bit-part/MTML-ST2) .
+PowerMTML-ST2 is autocompletions of PowerCMS for Sublime Text 2.  
+You can use suggestions of "Movable Type Template Tags" after installing [MTML-ST2](https://github.com/bit-part/MTML-ST2) .
 
 ## Instalation
 
