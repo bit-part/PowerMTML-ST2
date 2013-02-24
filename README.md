@@ -1,7 +1,7 @@
-# About PowerMTML-ST2
+# About PowerMTML Completions
 
-PowerMTML-ST2 is autocompletions of PowerCMS for Sublime Text 2.  
-You can use suggestions of "Movable Type Template Tags" after installing [MTML-ST2](https://github.com/bit-part/MTML-ST2) .
+PowerMTML Completions is autocompletions of PowerCMS for Sublime Text 2.  
+You can use suggestions of "Movable Type Template Tags" after installing [MTML Completions ](https://github.com/bit-part/MTML-ST2) .
 
 ## Instalation
 
@@ -17,7 +17,7 @@ Input URL ‘https://github.com/bit-part/PowerMTML-ST2’
 Package Control: Install Package
 ```
 
-Select ‘PowerMTML-ST2’
+Select ‘PowerMTML Completions’
 
 ### With Git
 
