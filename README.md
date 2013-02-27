@@ -45,8 +45,9 @@ You can change the format of Template Tags.
 
 ## Usage
 
-You can use this suggestion, when you input "<" in html or php file.
-If you set extension as ".mtml" or ".tmpl" , please change Syntax as html.
+You can use this feature when you input "<" in html or php file. When you set extension as ".mtml" or ".tmpl" , please change Syntax as html.
+
+For modifier, you run "Edit > Show Completions [cntrol + space]" when you input a space and a few calactors.
 
 ## Example
 
