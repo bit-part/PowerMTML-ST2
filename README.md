@@ -5,19 +5,11 @@ You can use suggestions of "Movable Type Template Tags" after installing [MTML C
 
 ## Instalation
 
-### With Package Control: Add Repository
+### With Package Control
 
-```
-Package Control: Add Repository
-```
-
-Input URL ‘https://github.com/bit-part/PowerMTML-ST2’
-
-```
-Package Control: Install Package
-```
-
-Select ‘PowerMTML Completions’
+* Bring up the Command Palette (Command+Shift+p on OS X, Control+Shift+p on Linux/Windows).
+* Select "Package Control: Install Package" .
+* Select “PowerMTML Completions" when the list appears.
 
 ### With Git
 

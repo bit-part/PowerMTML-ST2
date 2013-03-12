@@ -9,9 +9,7 @@ Movable Typeの標準タグを補完出来るようにするには「[MTML Compl
 
 _※あらかじめ Package Control をインストールしておく必要があります。_
 
-Package Control を起動し「Add Repository」を選択し、リポジトリのURL「 https://github.com/bit-part/PowerMTML-ST2 」を入力します。
-
-再度 Package Controlを起動し「Install Package」を選択し、「PowerMTML Completions」を選択します。
+Preferences > Package Control を起動し「Install Package」を選択し、「PowerMTML Completions」を選択します。
 
 ### Git を使ったインストール
 
